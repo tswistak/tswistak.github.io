@@ -1,1 +1,1 @@
-Source: https://github.com/tswistak/data-visualization-samples
+tswistak.github.io source code - will be redone in a while
